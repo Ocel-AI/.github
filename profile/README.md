@@ -1,7 +1,7 @@
-# 🏢 OcelStream
+# 🏢 Ocel Ai
 <img width="1023" height="353" alt="Ocel-Ai(1)" src="https://github.com/user-attachments/assets/920b7087-6a9b-49a7-95c6-f93c90f2c929" />
 
-**OcelStream** is a technology company specializing in **real-time computer vision, AI, and video streaming infrastructure**.  
+**Ocel AI** is a technology company specializing in **real-time computer vision, AI, and video streaming infrastructure**.  
 We build scalable solutions that transform raw video data into actionable insights for industries such as **safety, logistics, and manufacturing**.
 
 ---
@@ -19,13 +19,6 @@ We partner with enterprises, research labs, and startups to accelerate innovatio
 - **Streaming Systems**: Real-time video pipelines with DeepStream, GStreamer, RTSP, and WebRTC.  
 - **AI Deployment**: Optimized inference using ONNX, TensorRT, and Triton Inference Server.  
 - **Infrastructure**: Cloud-native solutions powered by Docker, Kubernetes, and CI/CD automation.  
-
----
-
-## 📂 Flagship Projects
-- **DeepVisionStream** – Dynamic multi-stream video analytics platform for real-time monitoring.  
-- **Granulas** – Quality control for fertilizers using AI-based size and color analysis.  
-- **Enterprise Process Intelligence (EPI)** – Safety detection for helmets, PPE compliance, and conveyor belt monitoring.  
 
 ---
 
