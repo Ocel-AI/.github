@@ -1,5 +1,5 @@
-<img width="1024" height="1024" alt="Ocel-Ai" src="https://github.com/user-attachments/assets/0af72910-00c3-44e0-92f7-f5a9ed221ab4" />
 # 🏢 OcelStream
+<img width="1023" height="353" alt="Ocel-Ai(1)" src="https://github.com/user-attachments/assets/920b7087-6a9b-49a7-95c6-f93c90f2c929" />
 
 **OcelStream** is a technology company specializing in **real-time computer vision, AI, and video streaming infrastructure**.  
 We build scalable solutions that transform raw video data into actionable insights for industries such as **safety, logistics, and manufacturing**.
