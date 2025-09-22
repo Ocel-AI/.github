@@ -40,10 +40,9 @@ Whether you’re a researcher, engineer, or enterprise, we welcome you to be par
 
 ---
 
-## 📫 Contact
-- Organization Page: [github.com/OcelStream](https://github.com/OcelStream)  
+## 📫 Contact  
 - Email: contact@ocelstream.ai  
-- LinkedIn: [OcelStream on LinkedIn](#) _(add your link)_  
+- LinkedIn: https://www.linkedin.com/company/ocel-ai 
 
 ---
 
